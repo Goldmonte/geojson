@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sorrento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.367713928222654,
+          40.62750334315296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sea of Sorrento"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.00830078125,
+              38.95940879245423
+            ],
+            [
+              11.00830078125,
+              40.863679665481676
+            ],
+            [
+              14.853515625,
+              40.863679665481676
+            ],
+            [
+              14.853515625,
+              38.95940879245423
+            ],
+            [
+              11.00830078125,
+              38.95940879245423
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
